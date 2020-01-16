@@ -30,30 +30,41 @@ Options:
 4. Cancel the reservation
 5. Exit
 
-1. Make Reservation:
-            -> To make a reservation you have to press 1. 
-            -> Then you have to enter the number of tickets you want to book.
-            -> Then if you want to choose seats, press 1 otherwise press 2.
-            -> If you go for choosing the seat yourself then you have to enter the seat number.
-            -> Finally, you have to give the information of individual passengers with at least one person's contact details.
-2. Inquiry about the ticket: 
-            -> At first you have to press 2 to enter into this option.
-            -> Then you have to enter the ticket number.
-            -> If the ticket number is valid then the system will show all the information regarding the passengers.
-3. Modify the reservation: 
-            -> To modify a booked ticket you have to choose option number 3 from the menu.
-            -> Then you have to put the ticket number. 
-            -> If the ticket number is valid then the system will show all the information related to that ticket.
-            -> To change the name of 1st passenger press:1 
-            -> To change the date of birth press:2
-            -> To change the gender press:3
-            -> To change the government ID number press:4
-            -> To change phone number press:5 
-            -> To change mail address press:6
-            -> If you don't want to change any information for this current person then press:7   
+Make Reservation:
+----------------
+- To make a reservation you have to press 1. 
+- Then you have to enter the number of tickets you want to book.
+- Then if you want to choose seats, press 1 otherwise press 2.
+- If you go for choosing the seat yourself then you have to enter the seat number.
+- Finally, you have to give the information of individual passengers with at least one person's contact details.
+            
+Inquiry about the ticket: 
+-------------------------
+- At first you have to press 2 to enter into this option.
+- Then you have to enter the ticket number.
+- If the ticket number is valid then the system will show all the information regarding the passengers.
+            
+Modify the reservation: 
+-------------------------
+- To modify a booked ticket you have to choose option number 3 from the menu.
+- Then you have to put the ticket number. 
+- If the ticket number is valid then the system will show all the information related to that ticket.
+- To change the name of 1st passenger press:1 
+- To change the date of birth press:2
+- To change the gender press:3
+- To change the government ID number press:4
+- To change phone number press:5 
+- To change mail address press:6
+- If you don't want to change any information for this current person then press:7   
+            
 You will be able to see these options for the rest of the passengers except the phone number and the mail address. This is because in the reservation section
 the program is just taking contact information of one passenger.
-4. Cancel the reservation: 
-            -> To cancel the reserved ticket you have to choose option 4 from the menu.
-            -> Then you have to put the booked ticket number. Then the program will remove that ticket. 
-5. To exit choose option 5 form the menu.
+
+Cancel the reservation: 
+-----------------------
+- To cancel the reserved ticket you have to choose option 4 from the menu.
+- Then you have to put the booked ticket number. Then the program will remove that ticket. 
+
+Exit:
+-----
+- To exit choose option 5 form the menu.
