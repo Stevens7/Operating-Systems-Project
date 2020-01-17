@@ -1,6 +1,12 @@
 # Operating-Systems-Project
 A flight ticket booking system based on client - server communication
 
+This project focuses on the complete management of a flight reservation/booking system. Customers can make reservations/modifications/cancellations online through the main server. The server is able to handle many customers simultaneously at any time.
+
+Customers are assumed to be the clients in the system, and they can make a booking by contacting the server.
+
+This project involves working with threads, synchronization, and message passing in a client-server environment.
+
 Machine Configuration information:
 ----------------------------------
 OS: Unix
